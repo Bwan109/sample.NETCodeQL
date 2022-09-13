@@ -1,0 +1,3 @@
+﻿C:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Domain.Core\Events\IEventStore.cs
+C:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Domain.Core\Events\StoredEvent.cs
+C:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Domain.Core\Models\ValueObject.cs

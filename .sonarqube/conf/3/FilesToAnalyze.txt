@@ -1,0 +1,2 @@
+﻿C:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Infra.CrossCutting.Identity\ApiIdentityConfig.cs
+C:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Infra.CrossCutting.Identity\WebAppIdentityConfig.cs

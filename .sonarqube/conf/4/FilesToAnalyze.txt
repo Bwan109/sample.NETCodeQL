@@ -1,0 +1,15 @@
+﻿C:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Infra.Data\Context\EquinoxContext.cs
+C:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Infra.Data\Context\EventStoreSQLContext.cs
+C:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Infra.Data\EventSourcing\SqlEventStore.cs
+C:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Infra.Data\Mappings\CustomerMap.cs
+C:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Infra.Data\Mappings\StoredEventMap.cs
+C:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Infra.Data\Migrations\20161213130431_Initial.cs
+C:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Infra.Data\Migrations\20161213130431_Initial.Designer.cs
+C:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Infra.Data\Migrations\EquinoxContextModelSnapshot.cs
+C:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Infra.Data\Migrations\EventStoreSQL\20161213130520_Initial.cs
+C:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Infra.Data\Migrations\EventStoreSQL\20161213130520_Initial.Designer.cs
+C:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Infra.Data\Migrations\EventStoreSQL\EventStoreSQLContextModelSnapshot.cs
+C:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Infra.Data\Repository\CustomerRepository.cs
+C:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Infra.Data\Repository\EventSourcing\EventStoreSQLRepository.cs
+C:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Infra.Data\Repository\EventSourcing\IEventStoreRepository.cs
+C:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Infra.Data\appsettings.json

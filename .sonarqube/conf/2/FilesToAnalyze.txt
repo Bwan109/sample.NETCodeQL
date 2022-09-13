@@ -1,0 +1,15 @@
+﻿C:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Domain\Commands\CustomerCommand.cs
+C:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Domain\Commands\CustomerCommandHandler.cs
+C:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Domain\Commands\RegisterNewCustomerCommand.cs
+C:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Domain\Commands\RemoveCustomerCommand.cs
+C:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Domain\Commands\UpdateCustomerCommand.cs
+C:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Domain\Commands\Validations\CustomerValidation.cs
+C:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Domain\Commands\Validations\RegisterNewCustomerCommandValidation.cs
+C:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Domain\Commands\Validations\RemoveCustomerCommandValidation.cs
+C:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Domain\Commands\Validations\UpdateCustomerCommandValidation.cs
+C:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Domain\Events\CustomerEventHandler.cs
+C:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Domain\Events\CustomerRegisteredEvent.cs
+C:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Domain\Events\CustomerRemovedEvent.cs
+C:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Domain\Events\CustomerUpdatedEvent.cs
+C:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Domain\Interfaces\ICustomerRepository.cs
+C:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Domain\Models\Customer.cs

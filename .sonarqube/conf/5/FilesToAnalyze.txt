@@ -1,0 +1,7 @@
+﻿C:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Application\AutoMapper\DomainToViewModelMappingProfile.cs
+C:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Application\AutoMapper\ViewModelToDomainMappingProfile.cs
+C:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Application\EventSourcedNormalizers\CustomerHistory.cs
+C:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Application\EventSourcedNormalizers\CustomerHistoryData.cs
+C:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Application\Interfaces\ICustomerAppService.cs
+C:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Application\Services\CustomerAppService.cs
+C:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Application\ViewModels\CustomerViewModel.cs

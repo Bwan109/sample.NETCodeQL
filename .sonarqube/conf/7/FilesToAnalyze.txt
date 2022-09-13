@@ -1,0 +1,17 @@
+﻿C:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Services.Api\Configurations\AutoMapperConfig.cs
+C:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Services.Api\Configurations\DatabaseConfig.cs
+C:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Services.Api\Configurations\DependencyInjectionConfig.cs
+C:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Services.Api\Configurations\SwaggerConfig.cs
+C:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Services.Api\Controllers\AccountController.cs
+C:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Services.Api\Controllers\ApiController.cs
+C:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Services.Api\Controllers\CustomerController.cs
+C:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Services.Api\Program.cs
+C:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Services.Api\Startup.cs
+C:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Services.Api\obj\Debug\netcoreapp3.1\.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
+C:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Services.Api\obj\Debug\netcoreapp3.1\Equinox.Services.Api.AssemblyInfo.cs
+C:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Services.Api\obj\Debug\netcoreapp3.1\Equinox.Services.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Services.Api\appsettings.Development.json
+C:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Services.Api\appsettings.json
+C:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Services.Api\Dockerfile
+C:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Services.Api\Properties\launchSettings.json
+C:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Services.Api\obj\Debug\netcoreapp3.1\apphost.exe

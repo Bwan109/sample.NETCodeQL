@@ -1,0 +1,104 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Microsoft (R) Visual C# Compiler",
+        "version": "4.3.0.0",
+        "fileVersion": "4.3.0-3.22365.10 (dd078d4e)",
+        "semanticVersion": "4.3.0",
+        "language": "en-US"
+      },
+      "results": [
+        {
+          "ruleId": "S4144",
+          "level": "warning",
+          "message": "Update this method so that its implementation is not identical to 'Details'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/user/Desktop/SonarQube_Learning/EquinoxProject-master/src/Equinox.UI.Web/Controllers/CustomerController.cs",
+                "region": {
+                  "startLine": 63,
+                  "startColumn": 42,
+                  "endLine": 63,
+                  "endColumn": 46
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/user/Desktop/SonarQube_Learning/EquinoxProject-master/src/Equinox.UI.Web/Controllers/CustomerController.cs",
+                "region": {
+                  "startLine": 29,
+                  "startColumn": 42,
+                  "endLine": 29,
+                  "endColumn": 49
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S4144",
+          "level": "warning",
+          "message": "Update this method so that its implementation is not identical to 'Details'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/user/Desktop/SonarQube_Learning/EquinoxProject-master/src/Equinox.UI.Web/Controllers/CustomerController.cs",
+                "region": {
+                  "startLine": 90,
+                  "startColumn": 42,
+                  "endLine": 90,
+                  "endColumn": 48
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/user/Desktop/SonarQube_Learning/EquinoxProject-master/src/Equinox.UI.Web/Controllers/CustomerController.cs",
+                "region": {
+                  "startLine": 29,
+                  "startColumn": 42,
+                  "endLine": 29,
+                  "endColumn": 49
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        }
+      ],
+      "rules": {
+        "S4144": {
+          "id": "S4144",
+          "shortDescription": "Methods should not have identical implementations",
+          "fullDescription": "When two methods have the same implementation, either it was a mistake - something else was intended - or the duplication was intentional, but may be confusing to maintainers. In the latter case, one implementation should invoke the other.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-4144",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

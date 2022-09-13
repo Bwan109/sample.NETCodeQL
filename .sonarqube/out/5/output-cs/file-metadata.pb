@@ -1,0 +1,10 @@
+é
+ÑC:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Application\AutoMapper\DomainToViewModelMappingProfile.csutf-8é
+ÑC:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Application\AutoMapper\ViewModelToDomainMappingProfile.csutf-8ã
+ÅC:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Application\EventSourcedNormalizers\CustomerHistory.csutf-8è
+ÖC:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Application\EventSourcedNormalizers\CustomerHistoryData.csutf-8Å
+xC:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Application\Interfaces\ICustomerAppService.csutf-8~
+uC:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Application\Services\CustomerAppService.csutf-8
+vC:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Application\ViewModels\CustomerViewModel.csutf-8©
+ùC:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Application\obj\Debug\netcoreapp3.1\.NETCoreApp,Version=v3.1.AssemblyAttributes.csutf-8û
+íC:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Application\obj\Debug\netcoreapp3.1\Equinox.Application.AssemblyInfo.csutf-8

@@ -1,0 +1,13 @@
+É
+zC:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Services.Api\Configurations\AutoMapperConfig.csutf-8Å
+xC:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Services.Api\Configurations\DatabaseConfig.csutf-8ç
+ÉC:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Services.Api\Configurations\DependencyInjectionConfig.csutf-8Ä
+wC:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Services.Api\Configurations\SwaggerConfig.csutf-8Å
+xC:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Services.Api\Controllers\AccountController.csutf-8}
+tC:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Services.Api\Controllers\ApiController.csutf-8Ç
+yC:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Services.Api\Controllers\CustomerController.csutf-8k
+bC:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Services.Api\Program.csutf-8k
+bC:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Services.Api\Startup.csutf-8™
+ûC:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Services.Api\obj\Debug\netcoreapp3.1\.NETCoreApp,Version=v3.1.AssemblyAttributes.csutf-8†
+îC:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Services.Api\obj\Debug\netcoreapp3.1\Equinox.Services.Api.AssemblyInfo.csutf-8≥
+ßC:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Services.Api\obj\Debug\netcoreapp3.1\Equinox.Services.Api.MvcApplicationPartsAssemblyInfo.csutf-8

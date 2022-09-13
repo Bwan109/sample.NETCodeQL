@@ -1,0 +1,17 @@
+x
+oC:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Infra.Data\Context\EquinoxContext.csutf-8~
+uC:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Infra.Data\Context\EventStoreSQLContext.csutf-8}
+tC:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Infra.Data\EventSourcing\SqlEventStore.csutf-8v
+mC:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Infra.Data\Mappings\CustomerMap.csutf-8y
+pC:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Infra.Data\Mappings\StoredEventMap.csutf-8É
+zC:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Infra.Data\Migrations\20161213130431_Initial.csutf-8è
+ÉC:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Infra.Data\Migrations\20161213130431_Initial.Designer.csutf-8à
+C:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Infra.Data\Migrations\EquinoxContextModelSnapshot.csutf-8í
+àC:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Infra.Data\Migrations\EventStoreSQL\20161213130520_Initial.csutf-8ù
+ëC:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Infra.Data\Migrations\EventStoreSQL\20161213130520_Initial.Designer.csutf-8ù
+ìC:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Infra.Data\Migrations\EventStoreSQL\EventStoreSQLContextModelSnapshot.csutf-8
+vC:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Infra.Data\Repository\CustomerRepository.csutf-8ì
+âC:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Infra.Data\Repository\EventSourcing\EventStoreSQLRepository.csutf-8ë
+áC:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Infra.Data\Repository\EventSourcing\IEventStoreRepository.csutf-8®
+úC:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Infra.Data\obj\Debug\netcoreapp3.1\.NETCoreApp,Version=v3.1.AssemblyAttributes.csutf-8ú
+êC:\Users\user\Desktop\SonarQube_Learning\EquinoxProject-master\src\Equinox.Infra.Data\obj\Debug\netcoreapp3.1\Equinox.Infra.Data.AssemblyInfo.csutf-8
