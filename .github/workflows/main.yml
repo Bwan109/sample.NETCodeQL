@@ -15,25 +15,26 @@ on:
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  # This workflow contains a single job called "build"
-  build:
-    # The type of runner that the job will run on
-    runs-on: ubuntu-latest
-
-    # Steps represent a sequence of tasks that will be executed as part of the job
-    steps:
-    - uses: actions/checkout@v2
-    - name: Setup .NET
-      uses: actions/setup-dotnet@v1
-      with:
-        dotnet-version: 6.0.x
-    - name: Restore dependencies
-      run: dotnet restore
-    - name: Build
-      run: dotnet build --no-restore
-    - name: Test
-      run: dotnet test --no-build --verbosity normal
-
+  # This workflow contains a single job called "run-sonarqube-scan"
   run-sonarqube-scan:
     name: SonarQubeScan
     runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2.2.0
+      with:
+        # Disabling shallow clone is recommended for improving relevancy of sonarqube reporting
+        fetch-depth: 0
+    - name: Setup dotnet
+      uses: actions/setup-dotnet@v1
+      with:
+        dotnet-version: '6.0.x'
+    - name: Install dependencies
+      run: dotnet restore
+    - name: Sonarqube Scan
+      run: |
+        dotnet tool install --global dotnet-sonarscanner
+        dotnet sonarscanner begin /k:".NETSonarGithubAction" /d:sonar.host.url="http://localhost:9000"  /d:sonar.login="sqp_da8e4e5677e71efd5a81ba87d9fa88eac0d99cd3"
+
+        dotnet sonarscanner begin /k:${{ secrets.SONAR_PROJECT_KEY }} /d:sonar.host.url=${{ secrets.SONAR_HOST_URL }} /d:sonar.login=${{ secrets.SONAR_LOGIN_TOKEN }}"
+        dotnet build
+        dotnet test --settings coverlet.runsettings --logger:trx
